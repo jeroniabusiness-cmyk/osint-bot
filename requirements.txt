@@ -3,3 +3,4 @@ requests
 phonenumbers
 flask
 gunicorn
+Pillow
